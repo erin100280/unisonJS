@@ -5,15 +5,14 @@
   "author": {
     "name": "Erin Bradford",
     "email": "erin.m.bradford@gmail.com"
-  },
-  "keywords": [
-    "css",
-    "parser",
-    "style",
-    "stylesheets",
-    "jade",
-    "language"
-  ],
+  }
+	,	"keywords": [
+				"a sync"
+			,	"a-sync"
+			,	"async"
+			,	"unison"
+			,	"unisonJS"
+		],
   "repository": {
     "type": "git",
     "url": "https://github.com/erin100280/unisonJS.git"
